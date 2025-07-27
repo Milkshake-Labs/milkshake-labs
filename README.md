@@ -37,7 +37,7 @@ Coming soon <3
 
 ### 📬 Contact & Community
 
-- 💬 Join our Discord: [discord.gg/milkshake](https://discord.gg/wSAkewmzAM) *(replace with your real invite)*
+- 💬 Join our Discord: [discord.gg/milkshake](https://discord.gg/wSAkewmzAM)
 ---
 
 ### ❤️ Support & Contributions
